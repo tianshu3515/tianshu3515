@@ -1,5 +1,5 @@
 ## About Me 👋
-- 📚 Civil Engineering w/ a minor in Music Performance Studies @ Western University, hoping to pursue a dual degree with Honours Business Administration @ Ivey Business School
+- 📚 Civil Engineering w/ minor in Music Performance Studies @ Western University, hoping to pursue a dual degree with Honours Business Administration @ Ivey Business School
 - 💻 Undergraduate Research Assistant @ HEAL (Human Environments Analysis Lab)
 - 🌱 Currently learning MATLAB, GIS, Python, UX/UI Design, etc.
 - 📫 How to reach me: tdai9@uwo.ca
